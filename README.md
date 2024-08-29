@@ -21,3 +21,7 @@ Escribir un programa que verifique si una palabra ingresada por el usuario es un
 
 Estudiante [Daniel]: Conversor de temperatura
 Crear un programa que convierta una temperatura de grados Celsius a Fahrenheit o viceversa. El programa debe pedir al usuario la temperatura y el tipo de conversión que desea realizar. Utilizar funciones celsius_a_fahrenheit(celsius) y fahrenheit_a_celsius(fahrenheit).
+
+Estudiante [Ramiro]:: Conversor de Distancia
+Crear un programa que convierta una distancia entre diferentes unidades: kilómetros, millas, metros, yardas, pulgadas y pies. El programa debe pedir al usuario la distancia y el tipo de conversión que desea realizar. Utilizar funciones específicas para cada tipo de conversión, como kilometros_a_millas(kilometros), metros_a_yardas(metros), etc.
+
